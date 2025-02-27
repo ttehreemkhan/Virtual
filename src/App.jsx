@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar"
 import Pricing from "./Components/Pricing"
 import Testimonial from "./Components/Testimonial"
 import WorkFlow from "./Components/WorkFlow"
-import FooterComponent from "./Components/FooterComponent"
+import Footer from "./Components/Footer"
 
 const App = () => {
   return (
@@ -17,7 +17,7 @@ const App = () => {
     <WorkFlow/>
     <Pricing/>
     <Testimonial/>
-    <FooterComponent/>
+    <Footer/>
     </div>
     </>
   )
